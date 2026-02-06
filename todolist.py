@@ -35,4 +35,4 @@ while True:
         print("exiting the application")
         break
     else:
-        print("invalid choice,try again")
+        print("invalid choice,try again.")
